@@ -23,4 +23,5 @@ object Tile extends Enumeration {
   val Animal = Value
   val Building = Value
   val Castle = Value
+  val Mine = Value
 }
