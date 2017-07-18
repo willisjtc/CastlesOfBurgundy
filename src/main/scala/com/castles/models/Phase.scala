@@ -1,5 +1,6 @@
 package com.castles.models
 
+import com.castles.models.PhaseLetterBonus.PhaseLetterBonus
 
 
 /**
